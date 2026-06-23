@@ -6,10 +6,13 @@ public class ArrastarItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEnd
     private RectTransform rectTransform;
     private CanvasGroup canvasGroup;
     private Canvas canvas;
+    private Vector2 posicaoInicial;
+
+    // NOVA VARIÁVEL: Ajuda a maçã a saber se acertou na fatia!
+    public bool naPosicaoCorreta = false;
 
     void Awake()
     {
-        // Vai buscar os componentes que precisamos automaticamente
         rectTransform = GetComponent<RectTransform>();
         canvasGroup = GetComponent<CanvasGroup>();
         canvas = GetComponentInParent<Canvas>();
@@ -17,21 +20,27 @@ public class ArrastarItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEnd
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        // Quando começamos a arrastar: fica meio transparente e deixa de bloquear o rato
+        posicaoInicial = rectTransform.anchoredPosition;
+        naPosicaoCorreta = false; // Quando pegas nela, ela ainda não está no sítio certo
+
         canvasGroup.alpha = 0.6f;
         canvasGroup.blocksRaycasts = false;
     }
 
     public void OnDrag(PointerEventData eventData)
     {
-        // Faz a imagem seguir exatamente a posição do rato
         rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        // Quando largamos o botão do rato: volta a ficar 100% visível e sólido
         canvasGroup.alpha = 1f;
         canvasGroup.blocksRaycasts = true;
+
+        // REGRA: Só volta para a madeira se NÃO estiver na posição correta
+        if (naPosicaoCorreta == false)
+        {
+            rectTransform.anchoredPosition = posicaoInicial;
+        }
     }
 }
