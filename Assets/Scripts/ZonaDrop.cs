@@ -14,9 +14,12 @@ public class ZonaDrop : MonoBehaviour, IDropHandler
             {
                 ArrastarItem item = eventData.pointerDrag.GetComponent<ArrastarItem>();
                 item.naPosicaoCorreta = true;
-
+                
                 eventData.pointerDrag.GetComponent<RectTransform>().position = GetComponent<RectTransform>().position;
-                jaOcupado = true;
+                jaOcupado = true; 
+
+                // A NOVA LINHA MÁGICA: Avisa o Árbitro para dar 1 ponto!
+                FindObjectOfType<GestorNivel>().GanharPonto();
             }
         }
     }
