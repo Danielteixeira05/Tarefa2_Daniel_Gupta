@@ -8,21 +8,19 @@ public class ArrastarItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEnd
     private Canvas canvas;
     private Vector2 posicaoInicial;
 
-    // NOVA VARIÁVEL: Ajuda a maçã a saber se acertou na fatia!
     public bool naPosicaoCorreta = false;
 
-    void Awake()
+    void Start()
     {
         rectTransform = GetComponent<RectTransform>();
         canvasGroup = GetComponent<CanvasGroup>();
         canvas = GetComponentInParent<Canvas>();
+        posicaoInicial = rectTransform.anchoredPosition;
     }
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        posicaoInicial = rectTransform.anchoredPosition;
-        naPosicaoCorreta = false; // Quando pegas nela, ela ainda não está no sítio certo
-
+        naPosicaoCorreta = false;
         canvasGroup.alpha = 0.6f;
         canvasGroup.blocksRaycasts = false;
     }
@@ -37,7 +35,6 @@ public class ArrastarItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEnd
         canvasGroup.alpha = 1f;
         canvasGroup.blocksRaycasts = true;
 
-        // REGRA: Só volta para a madeira se NÃO estiver na posição correta
         if (naPosicaoCorreta == false)
         {
             rectTransform.anchoredPosition = posicaoInicial;
