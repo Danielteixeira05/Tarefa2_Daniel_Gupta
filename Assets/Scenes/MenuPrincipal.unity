@@ -330,7 +330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: MapaIlha
+  SceneName: MapaIlha
 --- !u!4 &160161556
 Transform:
   m_ObjectHideFlags: 0
