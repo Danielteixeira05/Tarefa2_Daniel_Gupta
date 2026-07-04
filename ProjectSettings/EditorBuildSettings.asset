@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuDificuldade.unity
     guid: b10958f40e35cab448d6d7290a652f03
+  - enabled: 1
+    path: Assets/Scenes/Nivel1_Roda_Medio.unity
+    guid: 866e0758d3ee95b49b9d0bcf45995c10
+  - enabled: 1
+    path: Assets/Scenes/Nivel1_Roda_Dificil.unity
+    guid: 9c0b6a1d1a430be439c094550ffdebdc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

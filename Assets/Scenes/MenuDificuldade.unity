@@ -209,6 +209,7 @@ GameObject:
   - component: {fileID: 429471628}
   - component: {fileID: 429471631}
   - component: {fileID: 429471630}
+  - component: {fileID: 429471632}
   - component: {fileID: 429471629}
   m_Layer: 5
   m_Name: botao_medio
@@ -280,10 +281,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 429471632}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: ChangeSceneAction
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -342,6 +343,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 429471627}
   m_CullTransparentMesh: 1
+--- !u!114 &429471632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429471627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneName: Nivel1_Roda_Medio
 --- !u!1 &512481567
 GameObject:
   m_ObjectHideFlags: 0
@@ -909,6 +923,7 @@ GameObject:
   - component: {fileID: 1744212782}
   - component: {fileID: 1744212785}
   - component: {fileID: 1744212784}
+  - component: {fileID: 1744212786}
   - component: {fileID: 1744212783}
   m_Layer: 5
   m_Name: botao_dificil
@@ -980,10 +995,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 1744212786}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: ChangeSceneAction
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1042,6 +1057,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1744212781}
   m_CullTransparentMesh: 1
+--- !u!114 &1744212786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1744212781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneName: Nivel1_Roda_Dificil
 --- !u!1 &1756761136
 GameObject:
   m_ObjectHideFlags: 0
