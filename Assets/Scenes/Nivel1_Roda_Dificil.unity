@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 192c7126d6cd11949a59bfd6b1d45f1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tempoFalta: 15
+  tempoFalta: 60
   textoTempo: {fileID: 1866631059}
   painelDerrota: {fileID: 944775137}
 --- !u!1 &67186018
