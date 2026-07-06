@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1e0775ccae648fa40aac1b6986873bf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8456309644522827713
+    second: marbranco_0
+  - first:
+      213: -6323964883617545498
+    second: marbranco_1
+  - first:
+      213: -8363167884588867093
+    second: marbranco_2
+  - first:
+      213: 6886934417368074095
+    second: marbranco_3
+  - first:
+      213: -6946701508841138339
+    second: marbranco_4
+  - first:
+      213: 1469420745029604959
+    second: marbranco_5
+  - first:
+      213: 4990930379204073889
+    second: marbranco_6
+  - first:
+      213: 4543062384746579865
+    second: marbranco_7
+  - first:
+      213: 4421635145393642465
+    second: marbranco_8
+  - first:
+      213: -6616089875765438596
+    second: marbranco_9
+  - first:
+      213: -8343232720171778633
+    second: marbranco_10
+  - first:
+      213: 1342414654883105091
+    second: marbranco_11
+  - first:
+      213: -7868008584225790626
+    second: marbranco_12
+  - first:
+      213: 720843711136459007
+    second: marbranco_13
+  - first:
+      213: -3041456810748199702
+    second: marbranco_14
+  - first:
+      213: -6076831636420908895
+    second: marbranco_15
+  - first:
+      213: 5572404572264242534
+    second: marbranco_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marbranco_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 187
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf2e7871d8da5570800000000000000
+      internalID: 8456309644522827713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_1
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 191
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e28ee3b173cc38a0800000000000000
+      internalID: -6323964883617545498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 194
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be120227e1f00fb80800000000000000
+      internalID: -8363167884588867093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_3
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 196
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67c2a23d5e439f50800000000000000
+      internalID: 6886934417368074095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_4
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 194
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579adc68cb589f90800000000000000
+      internalID: -6946701508841138339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 166
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56541dd16e646410800000000000000
+      internalID: 1469420745029604959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_6
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 173
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a91a2f9cb8534540800000000000000
+      internalID: 4990930379204073889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 178
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99742433b233c0f30800000000000000
+      internalID: 4543062384746579865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_8
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 153
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb1297ecbdcc5d30800000000000000
+      internalID: 4421635145393642465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_9
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 166
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7751f0cf4dee24a0800000000000000
+      internalID: -6616089875765438596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdbebb9b02e63c80800000000000000
+      internalID: -8343232720171778633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 145
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3490695240731a210800000000000000
+      internalID: 1342414654883105091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_12
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 132
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e556f7f01e73fc290800000000000000
+      internalID: -7868008584225790626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 153
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ecdc3983f00a00800000000000000
+      internalID: 720843711136459007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_14
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 164
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec39ab15239ac5d0800000000000000
+      internalID: -3041456810748199702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2036
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8a647b2d1caaba0800000000000000
+      internalID: -6076831636420908895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marbranco_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 136
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d92924f68255d40800000000000000
+      internalID: 5572404572264242534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marbranco_0: 8456309644522827713
+      marbranco_1: -6323964883617545498
+      marbranco_10: -8343232720171778633
+      marbranco_11: 1342414654883105091
+      marbranco_12: -7868008584225790626
+      marbranco_13: 720843711136459007
+      marbranco_14: -3041456810748199702
+      marbranco_15: -6076831636420908895
+      marbranco_16: 5572404572264242534
+      marbranco_2: -8363167884588867093
+      marbranco_3: 6886934417368074095
+      marbranco_4: -6946701508841138339
+      marbranco_5: 1469420745029604959
+      marbranco_6: 4990930379204073889
+      marbranco_7: 4543062384746579865
+      marbranco_8: 4421635145393642465
+      marbranco_9: -6616089875765438596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3764 @@
+fileFormatVersion: 2
+guid: 381dcb573feee3d429737bc9c141970d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4701055627451473172
+    second: ESTRELAS00_0
+  - first:
+      213: 4486505154118938004
+    second: ESTRELAS00_1
+  - first:
+      213: -5959272441784607853
+    second: ESTRELAS00_2
+  - first:
+      213: -5395200943112704183
+    second: ESTRELAS00_3
+  - first:
+      213: -7198257951829704392
+    second: ESTRELAS00_4
+  - first:
+      213: 4597851993067435073
+    second: ESTRELAS00_5
+  - first:
+      213: -2562106550842966275
+    second: ESTRELAS00_6
+  - first:
+      213: 4897045195758719648
+    second: ESTRELAS00_7
+  - first:
+      213: 7385438234041819710
+    second: ESTRELAS00_8
+  - first:
+      213: 3700804536295017547
+    second: ESTRELAS00_9
+  - first:
+      213: 5010497287158891813
+    second: ESTRELAS00_10
+  - first:
+      213: 7240193146721264426
+    second: ESTRELAS00_11
+  - first:
+      213: -1841323676776863487
+    second: ESTRELAS00_12
+  - first:
+      213: -7817602111809852808
+    second: ESTRELAS00_13
+  - first:
+      213: 4327762046157133079
+    second: ESTRELAS00_14
+  - first:
+      213: -8043284800697088778
+    second: ESTRELAS00_15
+  - first:
+      213: 6304256419766804851
+    second: ESTRELAS00_16
+  - first:
+      213: -76169078856429052
+    second: ESTRELAS00_17
+  - first:
+      213: 4818068218422105515
+    second: ESTRELAS00_18
+  - first:
+      213: -3827238074805561597
+    second: ESTRELAS00_19
+  - first:
+      213: -6619255820474162865
+    second: ESTRELAS00_20
+  - first:
+      213: -4621800671355638
+    second: ESTRELAS00_21
+  - first:
+      213: 8741518721173664928
+    second: ESTRELAS00_22
+  - first:
+      213: -5703034099320190896
+    second: ESTRELAS00_23
+  - first:
+      213: -3111427923158577071
+    second: ESTRELAS00_24
+  - first:
+      213: 1205108599293137510
+    second: ESTRELAS00_25
+  - first:
+      213: 3135614922587884605
+    second: ESTRELAS00_26
+  - first:
+      213: -6334342372748870905
+    second: ESTRELAS00_27
+  - first:
+      213: -8082767529757872969
+    second: ESTRELAS00_28
+  - first:
+      213: -8786226882680583514
+    second: ESTRELAS00_29
+  - first:
+      213: 8953175454850635091
+    second: ESTRELAS00_30
+  - first:
+      213: 6851415957303516748
+    second: ESTRELAS00_31
+  - first:
+      213: -3408416830231643863
+    second: ESTRELAS00_32
+  - first:
+      213: -7378343594462659237
+    second: ESTRELAS00_33
+  - first:
+      213: 852719492972039748
+    second: ESTRELAS00_34
+  - first:
+      213: -2204384234831899414
+    second: ESTRELAS00_35
+  - first:
+      213: -7153161521492552692
+    second: ESTRELAS00_36
+  - first:
+      213: -904167637396190765
+    second: ESTRELAS00_37
+  - first:
+      213: -8383015966232701700
+    second: ESTRELAS00_38
+  - first:
+      213: -7151206979723484179
+    second: ESTRELAS00_39
+  - first:
+      213: -6934155091376460072
+    second: ESTRELAS00_40
+  - first:
+      213: 7860193266662238880
+    second: ESTRELAS00_41
+  - first:
+      213: -2361408306070888273
+    second: ESTRELAS00_42
+  - first:
+      213: 7420534212732234701
+    second: ESTRELAS00_43
+  - first:
+      213: 1757401873925456257
+    second: ESTRELAS00_44
+  - first:
+      213: 6507707620112580686
+    second: ESTRELAS00_45
+  - first:
+      213: 6968515616448355103
+    second: ESTRELAS00_46
+  - first:
+      213: 6085270544760329257
+    second: ESTRELAS00_47
+  - first:
+      213: 551587658228681202
+    second: ESTRELAS00_48
+  - first:
+      213: 7679415703497937553
+    second: ESTRELAS00_49
+  - first:
+      213: -7168675117395497086
+    second: ESTRELAS00_50
+  - first:
+      213: 5967573377541224121
+    second: ESTRELAS00_51
+  - first:
+      213: 1170524596980328206
+    second: ESTRELAS00_52
+  - first:
+      213: -6631197258499090509
+    second: ESTRELAS00_53
+  - first:
+      213: 2845059713493613367
+    second: ESTRELAS00_54
+  - first:
+      213: -2548642114655710699
+    second: ESTRELAS00_55
+  - first:
+      213: -7005531426085743399
+    second: ESTRELAS00_56
+  - first:
+      213: -148230927679319237
+    second: ESTRELAS00_57
+  - first:
+      213: 3510706722648448338
+    second: ESTRELAS00_58
+  - first:
+      213: -2334829793426374164
+    second: ESTRELAS00_59
+  - first:
+      213: 2233198121788843489
+    second: ESTRELAS00_60
+  - first:
+      213: -7399668316715713643
+    second: ESTRELAS00_61
+  - first:
+      213: -2559029512039541514
+    second: ESTRELAS00_62
+  - first:
+      213: 696000915454668009
+    second: ESTRELAS00_63
+  - first:
+      213: 5714090794233936452
+    second: ESTRELAS00_64
+  - first:
+      213: 1722166149381069948
+    second: ESTRELAS00_65
+  - first:
+      213: 5160535789034959999
+    second: ESTRELAS00_66
+  - first:
+      213: 2703427587979748007
+    second: ESTRELAS00_67
+  - first:
+      213: -7754251995538112998
+    second: ESTRELAS00_68
+  - first:
+      213: 3260635652722524817
+    second: ESTRELAS00_69
+  - first:
+      213: 1581958225032463513
+    second: ESTRELAS00_70
+  - first:
+      213: 1182595535270365246
+    second: ESTRELAS00_71
+  - first:
+      213: -1855685610751333359
+    second: ESTRELAS00_72
+  - first:
+      213: 5047421763153114827
+    second: ESTRELAS00_73
+  - first:
+      213: 7411606910698751711
+    second: ESTRELAS00_74
+  - first:
+      213: 3345835468048882166
+    second: ESTRELAS00_75
+  - first:
+      213: 6513448645651907649
+    second: ESTRELAS00_76
+  - first:
+      213: -1225383526212406643
+    second: ESTRELAS00_77
+  - first:
+      213: -3900324610664921616
+    second: ESTRELAS00_78
+  - first:
+      213: 5726001872985576566
+    second: ESTRELAS00_79
+  - first:
+      213: -1277993873875801078
+    second: ESTRELAS00_80
+  - first:
+      213: -8471380747674235584
+    second: ESTRELAS00_81
+  - first:
+      213: -8468410279284758656
+    second: ESTRELAS00_82
+  - first:
+      213: 6873287123779032003
+    second: ESTRELAS00_83
+  - first:
+      213: 2804334142700070032
+    second: ESTRELAS00_84
+  - first:
+      213: 706039573791828882
+    second: ESTRELAS00_85
+  - first:
+      213: 5870491643008202492
+    second: ESTRELAS00_86
+  - first:
+      213: 9106820004134884839
+    second: ESTRELAS00_87
+  - first:
+      213: 4382479620943086198
+    second: ESTRELAS00_88
+  - first:
+      213: -8894580714632040868
+    second: ESTRELAS00_89
+  - first:
+      213: -3801208199218728757
+    second: ESTRELAS00_90
+  - first:
+      213: 3195129686882002473
+    second: ESTRELAS00_91
+  - first:
+      213: 2502826884979544983
+    second: ESTRELAS00_92
+  - first:
+      213: 494891748152807275
+    second: ESTRELAS00_93
+  - first:
+      213: -2792936659154807857
+    second: ESTRELAS00_94
+  - first:
+      213: 4527163714076887212
+    second: ESTRELAS00_95
+  - first:
+      213: 9197808717146639354
+    second: ESTRELAS00_96
+  - first:
+      213: 1580548336800138827
+    second: ESTRELAS00_97
+  - first:
+      213: -8072480136036762524
+    second: ESTRELAS00_98
+  - first:
+      213: 6378629153635500117
+    second: ESTRELAS00_99
+  - first:
+      213: -2457519718960520074
+    second: ESTRELAS00_100
+  - first:
+      213: -5228598945566984390
+    second: ESTRELAS00_101
+  - first:
+      213: 6438619936399033279
+    second: ESTRELAS00_102
+  - first:
+      213: 3118864185368909118
+    second: ESTRELAS00_103
+  - first:
+      213: -2782920895834286293
+    second: ESTRELAS00_104
+  - first:
+      213: 8540548040776153658
+    second: ESTRELAS00_105
+  - first:
+      213: 7569555536351888152
+    second: ESTRELAS00_106
+  - first:
+      213: -6824827892115101076
+    second: ESTRELAS00_107
+  - first:
+      213: -4047379580279778807
+    second: ESTRELAS00_108
+  - first:
+      213: -3606335425132335843
+    second: ESTRELAS00_109
+  - first:
+      213: 6680634410059189985
+    second: ESTRELAS00_110
+  - first:
+      213: -6423317365679365726
+    second: ESTRELAS00_111
+  - first:
+      213: -2670258317395656532
+    second: ESTRELAS00_112
+  - first:
+      213: 1839840750911273298
+    second: ESTRELAS00_113
+  - first:
+      213: 1213489222405503333
+    second: ESTRELAS00_114
+  - first:
+      213: -7120840265378731527
+    second: ESTRELAS00_115
+  - first:
+      213: 1242075893671793662
+    second: ESTRELAS00_116
+  - first:
+      213: -5441411519305406224
+    second: ESTRELAS00_117
+  - first:
+      213: -2919613334789296723
+    second: ESTRELAS00_118
+  - first:
+      213: -3417704167366316301
+    second: ESTRELAS00_119
+  - first:
+      213: 5424357679535740079
+    second: ESTRELAS00_120
+  - first:
+      213: 951092677781861735
+    second: ESTRELAS00_121
+  - first:
+      213: 3078178286853584568
+    second: ESTRELAS00_122
+  - first:
+      213: -5525950097327627329
+    second: ESTRELAS00_123
+  - first:
+      213: -8369381139262269752
+    second: ESTRELAS00_124
+  - first:
+      213: -9124575208097308548
+    second: ESTRELAS00_125
+  - first:
+      213: 6275870600220069017
+    second: ESTRELAS00_126
+  - first:
+      213: -7430480119371763307
+    second: ESTRELAS00_127
+  - first:
+      213: -4703540806121604631
+    second: ESTRELAS00_128
+  - first:
+      213: -4081200365921204699
+    second: ESTRELAS00_129
+  - first:
+      213: -3807860633187135888
+    second: ESTRELAS00_130
+  - first:
+      213: -4283719947180803205
+    second: ESTRELAS00_131
+  - first:
+      213: 663857702398791962
+    second: ESTRELAS00_132
+  - first:
+      213: -2856971312401204421
+    second: ESTRELAS00_133
+  - first:
+      213: -1764105700610114312
+    second: ESTRELAS00_134
+  - first:
+      213: 7570041741617866709
+    second: ESTRELAS00_135
+  - first:
+      213: -9074089833243747251
+    second: ESTRELAS00_136
+  - first:
+      213: -6958967020403559435
+    second: ESTRELAS00_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ESTRELAS00_0
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2465
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d98979f218d3140800000000000000
+      internalID: 4701055627451473172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_1
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2466
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de73acaa4434e30800000000000000
+      internalID: 4486505154118938004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_2
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 2484
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b57aba9496c4da0800000000000000
+      internalID: -5959272441784607853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_3
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 2445
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f2ae5c3556025b0800000000000000
+      internalID: -5395200943112704183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2426
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8314f83e786aa1c90800000000000000
+      internalID: -7198257951829704392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2384
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1443b98f60adecf30800000000000000
+      internalID: 4597851993067435073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_6
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfebd48aaa1917cd0800000000000000
+      internalID: -2562106550842966275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_7
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 2389
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a25b3ee8acc5f340800000000000000
+      internalID: 4897045195758719648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_8
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 2390
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a6a2b1f85e7660800000000000000
+      internalID: 7385438234041819710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_9
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2377
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc4093e16eb5330800000000000000
+      internalID: 3700804536295017547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_10
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 2350
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250a256cbcd88540800000000000000
+      internalID: 5010497287158891813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_11
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2346
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e9878e455a7460800000000000000
+      internalID: 7240193146721264426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_12
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2354
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109e2392fdd4276e0800000000000000
+      internalID: -1841323676776863487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_13
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 2347
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aea3a7c4c428390800000000000000
+      internalID: -7817602111809852808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_14
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2301
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7151d99c6ac4f0c30800000000000000
+      internalID: 4327762046157133079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_15
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 2315
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c623c613806090800000000000000
+      internalID: -8043284800697088778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_16
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 2301
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712d29ffc73d7750800000000000000
+      internalID: 6304256419766804851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_17
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 2312
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402d4e750a461fef0800000000000000
+      internalID: -76169078856429052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_18
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 2301
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba516a674873dd240800000000000000
+      internalID: 4818068218422105515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2268
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3075d50af3be2eac0800000000000000
+      internalID: -3827238074805561597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_20
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2293
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41633fc6eda324a0800000000000000
+      internalID: -6619255820474162865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_21
+      rect:
+        serializedVersion: 2
+        x: 5713
+        y: 2287
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd2cc2f749feff0800000000000000
+      internalID: -4621800671355638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_22
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 2293
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4bbfc56fc105970800000000000000
+      internalID: 8741518721173664928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_23
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2277
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588410e3b0cad0b0800000000000000
+      internalID: -5703034099320190896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d6e7f9ccf1d4d0800000000000000
+      internalID: -3111427923158577071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_25
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 2226
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662d2a8d2e769b010800000000000000
+      internalID: 1205108599293137510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_26
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cc34da821f38b20800000000000000
+      internalID: 3135614922587884605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_27
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 2172
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b399a3c25e718a0800000000000000
+      internalID: -6334342372748870905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_28
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 2200
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc68ba81cd34df80800000000000000
+      internalID: -8082767529757872969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2173
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa06dd933d011680800000000000000
+      internalID: -8786226882680583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_30
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2180
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555e16e3a1104c70800000000000000
+      internalID: 8953175454850635091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_31
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 2183
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed487438e151f50800000000000000
+      internalID: 6851415957303516748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_32
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2153
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929749393fed2b0d0800000000000000
+      internalID: -3408416830231643863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_33
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2139
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d364dc79bda9990800000000000000
+      internalID: -7378343594462659237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_34
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 2144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e46a76cd775db00800000000000000
+      internalID: 852719492972039748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae49f5eb7347861e0800000000000000
+      internalID: -2204384234831899414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_36
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2119
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04917ace7ddabc90800000000000000
+      internalID: -7153161521492552692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_37
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2123
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d988930350c373f0800000000000000
+      internalID: -904167637396190765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_38
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 2129
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf49542d46b89ab80800000000000000
+      internalID: -8383015966232701700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2116
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a942042fc1cc90800000000000000
+      internalID: -7151206979723484179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_40
+      rect:
+        serializedVersion: 2
+        x: 5856
+        y: 2095
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de2a01eeaee4cf90800000000000000
+      internalID: -6934155091376460072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_41
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 2102
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae1558124051d60800000000000000
+      internalID: 7860193266662238880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_42
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2090
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ecfa28a79a3fd0800000000000000
+      internalID: -2361408306070888273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_43
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 2069
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba9810d880bf660800000000000000
+      internalID: 7420534212732234701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_44
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 2076
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181cee671bb836810800000000000000
+      internalID: 1757401873925456257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_45
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 2044
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c9e6e995005a50800000000000000
+      internalID: 6507707620112580686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_46
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 2049
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b9a2a480425b060800000000000000
+      internalID: 6968515616448355103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_47
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 2047
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924569eb159337450800000000000000
+      internalID: 6085270544760329257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_48
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 2032
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9c53f7d02a7a700800000000000000
+      internalID: 551587658228681202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_49
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 2009
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921d8125e3c29a60800000000000000
+      internalID: 7679415703497937553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_50
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 2032
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa57546ffb38c90800000000000000
+      internalID: -7168675117395497086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_51
+      rect:
+        serializedVersion: 2
+        x: 6809
+        y: 2014
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b63c6b8e5411d250800000000000000
+      internalID: 5967573377541224121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_52
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1951
+        width: 175
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07aed35be98e3010800000000000000
+      internalID: 1170524596980328206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_53
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 2006
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b71e9b1a3149f3a0800000000000000
+      internalID: -6631197258499090509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_54
+      rect:
+        serializedVersion: 2
+        x: 4743
+        y: 2012
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bbf835cbeab7720800000000000000
+      internalID: 2845059713493613367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_55
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1979
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5129850008761acd0800000000000000
+      internalID: -2548642114655710699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_56
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 1978
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d25de84a57ce90800000000000000
+      internalID: -7005531426085743399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_57
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1950
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3392f2b1c061fdf0800000000000000
+      internalID: -148230927679319237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_58
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 1931
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d590ae92988b030800000000000000
+      internalID: 3510706722648448338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_59
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1936
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce182df5ca4099fd0800000000000000
+      internalID: -2334829793426374164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1882
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e52b4a1cd9edfe10800000000000000
+      internalID: 2233198121788843489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_61
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1870
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b727efed81f4990800000000000000
+      internalID: -7399668316715713643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_62
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1859
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4542597308c7cd0800000000000000
+      internalID: -2559029512039541514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_63
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 1831
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca5012521b8a900800000000000000
+      internalID: 696000915454668009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_64
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 1861
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ab4a48d478c4f40800000000000000
+      internalID: 5714090794233936452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_65
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 1856
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9f0a0dfc56e710800000000000000
+      internalID: 1722166149381069948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_66
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1833
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747e1c55f7ed9740800000000000000
+      internalID: 5160535789034959999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_67
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1821
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a226816111848520800000000000000
+      internalID: 2703427587979748007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_68
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 1824
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e3613d4ec536490800000000000000
+      internalID: -7754251995538112998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_69
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192008eb9da104d20800000000000000
+      internalID: 3260635652722524817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_70
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1780
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9944194cf9e34f510800000000000000
+      internalID: 1581958225032463513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_71
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1747
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c0c8af5c696010800000000000000
+      internalID: 1182595535270365246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_72
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 1736
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cec54d4c74f36e0800000000000000
+      internalID: -1855685610751333359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_73
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1706
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63158e95b0c0640800000000000000
+      internalID: 5047421763153114827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_74
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 1716
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6870787315bd660800000000000000
+      internalID: 7411606910698751711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_75
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 1708
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d4f591abce6e20800000000000000
+      internalID: 3345835468048882166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_76
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 1724
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144c4d2980b646a50800000000000000
+      internalID: 6513448645651907649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1694
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827e7edc209efee0800000000000000
+      internalID: -1225383526212406643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_78
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1686
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f58a907e634fd9c0800000000000000
+      internalID: -3900324610664921616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_79
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 1695
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d686ad58d67f40800000000000000
+      internalID: 5726001872985576566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_80
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 1639
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ce182c757a34ee0800000000000000
+      internalID: -1277993873875801078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_81
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1637
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4bc1e71c9f6a80800000000000000
+      internalID: -8471380747674235584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_82
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08727f2f7b92a7a80800000000000000
+      internalID: -8468410279284758656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_83
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1603
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39d1c0932d26f50800000000000000
+      internalID: 6873287123779032003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_84
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 1601
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09423277b0ffae620800000000000000
+      internalID: 2804334142700070032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_85
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1586
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bea39604b5cc900800000000000000
+      internalID: 706039573791828882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_86
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 1601
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6376ecb0d287150800000000000000
+      internalID: 5870491643008202492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_87
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 1573
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e591e33b8ce16e70800000000000000
+      internalID: 9106820004134884839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_88
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1543
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67283b1fef1b1dc30800000000000000
+      internalID: 4382479620943086198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_89
+      rect:
+        serializedVersion: 2
+        x: 4759
+        y: 1534
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e215e27f9109480800000000000000
+      internalID: -8894580714632040868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_90
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 1533
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0f34058456f3bc0800000000000000
+      internalID: -3801208199218728757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_91
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1506
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92628ed8581675c20800000000000000
+      internalID: 3195129686882002473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_92
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1505
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d0859ac3dbb220800000000000000
+      internalID: 2502826884979544983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_93
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 1359
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f8be24c653ed600800000000000000
+      internalID: 494891748152807275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_94
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 1432
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc359e6f7ee7d39d0800000000000000
+      internalID: -2792936659154807857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_95
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1410
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca847997967b3de30800000000000000
+      internalID: 4527163714076887212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_96
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 1337
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb4481db4e25af70800000000000000
+      internalID: 9197808717146639354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_97
+      rect:
+        serializedVersion: 2
+        x: 6353
+        y: 1335
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b468e45965c3fe510800000000000000
+      internalID: 1580548336800138827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_98
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1301
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cb12b061ac8ff80800000000000000
+      internalID: -8072480136036762524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_99
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 1293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55005687b61758850800000000000000
+      internalID: 6378629153635500117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_100
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1274
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67427da06d225edd0800000000000000
+      internalID: -2457519718960520074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_101
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1261
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a377f7816f84077b0800000000000000
+      internalID: -5228598945566984390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_102
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1254
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb300d808b29a5950800000000000000
+      internalID: 6438619936399033279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_103
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e351a9fb37e684b20800000000000000
+      internalID: 3118864185368909118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_104
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 1206
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2719c590341169d0800000000000000
+      internalID: -2782920895834286293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_105
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 1214
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afe9d713f168670800000000000000
+      internalID: 8540548040776153658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_106
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1183
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81388d3b7a67c0960800000000000000
+      internalID: 7569555536351888152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_107
+      rect:
+        serializedVersion: 2
+        x: 5853
+        y: 1123
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a2d4d01375941a0800000000000000
+      internalID: -6824827892115101076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_108
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 1111
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902114637b1d4d7c0800000000000000
+      internalID: -4047379580279778807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1096
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d641cb909b3fdc0800000000000000
+      internalID: -3606335425132335843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_110
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1095
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee44d5b99166bc50800000000000000
+      internalID: 6680634410059189985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_111
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 1099
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1651b53eacbd6a0800000000000000
+      internalID: -6423317365679365726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_112
+      rect:
+        serializedVersion: 2
+        x: 6196
+        y: 1082
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0891d353651fad0800000000000000
+      internalID: -2670258317395656532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_113
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 1060
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ba514a6d688910800000000000000
+      internalID: 1839840750911273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_114
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1027
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569be38b40e27d010800000000000000
+      internalID: 1213489222405503333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_115
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 1031
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f96dc7a181bd2d90800000000000000
+      internalID: -7120840265378731527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_116
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 990
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3126ac17dbc3110800000000000000
+      internalID: 1242075893671793662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_117
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 982
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f825139d093c74b0800000000000000
+      internalID: -5441411519305406224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_118
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 970
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dade36a04237b77d0800000000000000
+      internalID: -2919613334789296723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_119
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 943
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe22c4ea20e190d0800000000000000
+      internalID: -3417704167366316301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_120
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 886
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d36fe190374b40800000000000000
+      internalID: 5424357679535740079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_121
+      rect:
+        serializedVersion: 2
+        x: 6506
+        y: 886
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b9a750c5f23d00800000000000000
+      internalID: 951092677781861735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_122
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67a3fc7d2e7ba20800000000000000
+      internalID: 3078178286853584568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_123
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 821
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3604a0aa1ef43b0800000000000000
+      internalID: -5525950097327627329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_124
+      rect:
+        serializedVersion: 2
+        x: 6211
+        y: 811
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61b6c523cf9db80800000000000000
+      internalID: -8369381139262269752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_125
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 771
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70260b313ffe5180800000000000000
+      internalID: -9124575208097308548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_126
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c4f665f0f581750800000000000000
+      internalID: 6275870600220069017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_127
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 753
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917e3623b1a1e890800000000000000
+      internalID: -7430480119371763307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_128
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 737
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e93198ae8aa9beb0800000000000000
+      internalID: -4703540806121604631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_129
+      rect:
+        serializedVersion: 2
+        x: 6483
+        y: 718
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526821ce3e9ac57c0800000000000000
+      internalID: -4081200365921204699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_130
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 680
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ecfa4dde2c72bc0800000000000000
+      internalID: -3807860633187135888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_131
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 661
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b7807776b2d84c0800000000000000
+      internalID: -4283719947180803205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_132
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 626
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1113e4201f763900800000000000000
+      internalID: 663857702398791962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_133
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 567
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b38de6abff958d0800000000000000
+      internalID: -2856971312401204421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_134
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 530
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc74e04633a487e0800000000000000
+      internalID: -1764105700610114312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_135
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 510
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d723003bd03e0960800000000000000
+      internalID: 7570041741617866709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_136
+      rect:
+        serializedVersion: 2
+        x: 5812
+        y: 493
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd58d8f5b521280800000000000000
+      internalID: -9074089833243747251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_137
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ff297d58cc6f90800000000000000
+      internalID: -6958967020403559435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_138
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1952
+        width: 296
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b9b88690ab1946998f9e41331013d
+      internalID: -833225299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESTRELAS00_139
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 6810
+        height: 2494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d27a316917efb4589ea84eb5a2ffa8
+      internalID: 355617955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ea1d81f117b94943b5ec9e682e9f510
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ESTRELAS00_0: 4701055627451473172
+      ESTRELAS00_1: 4486505154118938004
+      ESTRELAS00_10: 5010497287158891813
+      ESTRELAS00_100: -2457519718960520074
+      ESTRELAS00_101: -5228598945566984390
+      ESTRELAS00_102: 6438619936399033279
+      ESTRELAS00_103: 3118864185368909118
+      ESTRELAS00_104: -2782920895834286293
+      ESTRELAS00_105: 8540548040776153658
+      ESTRELAS00_106: 7569555536351888152
+      ESTRELAS00_107: -6824827892115101076
+      ESTRELAS00_108: -4047379580279778807
+      ESTRELAS00_109: -3606335425132335843
+      ESTRELAS00_11: 7240193146721264426
+      ESTRELAS00_110: 6680634410059189985
+      ESTRELAS00_111: -6423317365679365726
+      ESTRELAS00_112: -2670258317395656532
+      ESTRELAS00_113: 1839840750911273298
+      ESTRELAS00_114: 1213489222405503333
+      ESTRELAS00_115: -7120840265378731527
+      ESTRELAS00_116: 1242075893671793662
+      ESTRELAS00_117: -5441411519305406224
+      ESTRELAS00_118: -2919613334789296723
+      ESTRELAS00_119: -3417704167366316301
+      ESTRELAS00_12: -1841323676776863487
+      ESTRELAS00_120: 5424357679535740079
+      ESTRELAS00_121: 951092677781861735
+      ESTRELAS00_122: 3078178286853584568
+      ESTRELAS00_123: -5525950097327627329
+      ESTRELAS00_124: -8369381139262269752
+      ESTRELAS00_125: -9124575208097308548
+      ESTRELAS00_126: 6275870600220069017
+      ESTRELAS00_127: -7430480119371763307
+      ESTRELAS00_128: -4703540806121604631
+      ESTRELAS00_129: -4081200365921204699
+      ESTRELAS00_13: -7817602111809852808
+      ESTRELAS00_130: -3807860633187135888
+      ESTRELAS00_131: -4283719947180803205
+      ESTRELAS00_132: 663857702398791962
+      ESTRELAS00_133: -2856971312401204421
+      ESTRELAS00_134: -1764105700610114312
+      ESTRELAS00_135: 7570041741617866709
+      ESTRELAS00_136: -9074089833243747251
+      ESTRELAS00_137: -6958967020403559435
+      ESTRELAS00_138: -833225299
+      ESTRELAS00_139: 355617955
+      ESTRELAS00_14: 4327762046157133079
+      ESTRELAS00_15: -8043284800697088778
+      ESTRELAS00_16: 6304256419766804851
+      ESTRELAS00_17: -76169078856429052
+      ESTRELAS00_18: 4818068218422105515
+      ESTRELAS00_19: -3827238074805561597
+      ESTRELAS00_2: -5959272441784607853
+      ESTRELAS00_20: -6619255820474162865
+      ESTRELAS00_21: -4621800671355638
+      ESTRELAS00_22: 8741518721173664928
+      ESTRELAS00_23: -5703034099320190896
+      ESTRELAS00_24: -3111427923158577071
+      ESTRELAS00_25: 1205108599293137510
+      ESTRELAS00_26: 3135614922587884605
+      ESTRELAS00_27: -6334342372748870905
+      ESTRELAS00_28: -8082767529757872969
+      ESTRELAS00_29: -8786226882680583514
+      ESTRELAS00_3: -5395200943112704183
+      ESTRELAS00_30: 8953175454850635091
+      ESTRELAS00_31: 6851415957303516748
+      ESTRELAS00_32: -3408416830231643863
+      ESTRELAS00_33: -7378343594462659237
+      ESTRELAS00_34: 852719492972039748
+      ESTRELAS00_35: -2204384234831899414
+      ESTRELAS00_36: -7153161521492552692
+      ESTRELAS00_37: -904167637396190765
+      ESTRELAS00_38: -8383015966232701700
+      ESTRELAS00_39: -7151206979723484179
+      ESTRELAS00_4: -7198257951829704392
+      ESTRELAS00_40: -6934155091376460072
+      ESTRELAS00_41: 7860193266662238880
+      ESTRELAS00_42: -2361408306070888273
+      ESTRELAS00_43: 7420534212732234701
+      ESTRELAS00_44: 1757401873925456257
+      ESTRELAS00_45: 6507707620112580686
+      ESTRELAS00_46: 6968515616448355103
+      ESTRELAS00_47: 6085270544760329257
+      ESTRELAS00_48: 551587658228681202
+      ESTRELAS00_49: 7679415703497937553
+      ESTRELAS00_5: 4597851993067435073
+      ESTRELAS00_50: -7168675117395497086
+      ESTRELAS00_51: 5967573377541224121
+      ESTRELAS00_52: 1170524596980328206
+      ESTRELAS00_53: -6631197258499090509
+      ESTRELAS00_54: 2845059713493613367
+      ESTRELAS00_55: -2548642114655710699
+      ESTRELAS00_56: -7005531426085743399
+      ESTRELAS00_57: -148230927679319237
+      ESTRELAS00_58: 3510706722648448338
+      ESTRELAS00_59: -2334829793426374164
+      ESTRELAS00_6: -2562106550842966275
+      ESTRELAS00_60: 2233198121788843489
+      ESTRELAS00_61: -7399668316715713643
+      ESTRELAS00_62: -2559029512039541514
+      ESTRELAS00_63: 696000915454668009
+      ESTRELAS00_64: 5714090794233936452
+      ESTRELAS00_65: 1722166149381069948
+      ESTRELAS00_66: 5160535789034959999
+      ESTRELAS00_67: 2703427587979748007
+      ESTRELAS00_68: -7754251995538112998
+      ESTRELAS00_69: 3260635652722524817
+      ESTRELAS00_7: 4897045195758719648
+      ESTRELAS00_70: 1581958225032463513
+      ESTRELAS00_71: 1182595535270365246
+      ESTRELAS00_72: -1855685610751333359
+      ESTRELAS00_73: 5047421763153114827
+      ESTRELAS00_74: 7411606910698751711
+      ESTRELAS00_75: 3345835468048882166
+      ESTRELAS00_76: 6513448645651907649
+      ESTRELAS00_77: -1225383526212406643
+      ESTRELAS00_78: -3900324610664921616
+      ESTRELAS00_79: 5726001872985576566
+      ESTRELAS00_8: 7385438234041819710
+      ESTRELAS00_80: -1277993873875801078
+      ESTRELAS00_81: -8471380747674235584
+      ESTRELAS00_82: -8468410279284758656
+      ESTRELAS00_83: 6873287123779032003
+      ESTRELAS00_84: 2804334142700070032
+      ESTRELAS00_85: 706039573791828882
+      ESTRELAS00_86: 5870491643008202492
+      ESTRELAS00_87: 9106820004134884839
+      ESTRELAS00_88: 4382479620943086198
+      ESTRELAS00_89: -8894580714632040868
+      ESTRELAS00_9: 3700804536295017547
+      ESTRELAS00_90: -3801208199218728757
+      ESTRELAS00_91: 3195129686882002473
+      ESTRELAS00_92: 2502826884979544983
+      ESTRELAS00_93: 494891748152807275
+      ESTRELAS00_94: -2792936659154807857
+      ESTRELAS00_95: 4527163714076887212
+      ESTRELAS00_96: 9197808717146639354
+      ESTRELAS00_97: 1580548336800138827
+      ESTRELAS00_98: -8072480136036762524
+      ESTRELAS00_99: 6378629153635500117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
