@@ -15,7 +15,7 @@ public class GestorNivel : MonoBehaviour
             painelVitoria.SetActive(true);
 
             // Manda o temporizador parar
-            FindObjectOfType<Temporizador>().PararRelogio();
+            FindFirstObjectByType<Temporizador>().PararRelogio();
         }
     }
 }
