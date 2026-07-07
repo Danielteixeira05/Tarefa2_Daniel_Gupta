@@ -1894,7 +1894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: MenuDificuldade
+  SceneName: MenuDificuldade 1
 --- !u!1 &814750451
 GameObject:
   m_ObjectHideFlags: 0
@@ -4198,7 +4198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: MenuDificuldade
+  SceneName: MenuDificuldade 1
 --- !u!114 &1829962233
 MonoBehaviour:
   m_ObjectHideFlags: 0
