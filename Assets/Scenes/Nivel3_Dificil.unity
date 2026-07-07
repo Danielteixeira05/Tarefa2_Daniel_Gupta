@@ -296,7 +296,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pontos: 0
-  totalParaGanhar: 10
+  totalParaGanhar: 15
   painelVitoria: {fileID: 161669527}
 --- !u!4 &18286273
 Transform:
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 192c7126d6cd11949a59bfd6b1d45f1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tempoFalta: 30
+  tempoFalta: 20
   textoTempo: {fileID: 1866631059}
   painelDerrota: {fileID: 944775137}
 --- !u!1 &58863142
@@ -4841,7 +4841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c17571bc1982f14ca168945c4e33f51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tempoVisivel: 1.2
+  tempoVisivel: 0.5
   spotsAgua:
   - {fileID: 1992745751}
   - {fileID: 1391542876}

@@ -481,7 +481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: Nivel1_Roda_Medio
+  SceneName: Nivel3_Medio
 --- !u!1 &512481567
 GameObject:
   m_ObjectHideFlags: 0
@@ -2376,7 +2376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18ff42db10f94a48a4396a25745b3f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: Nivel1_Roda_Dificil
+  SceneName: Nivel3_Dificil
 --- !u!1 &1745176092
 GameObject:
   m_ObjectHideFlags: 0

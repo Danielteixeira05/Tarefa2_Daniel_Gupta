@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement; // Adicionado para gerir as cenas corretamente
+using UnityEngine.SceneManagement;
 
 public class ControladorMusica : MonoBehaviour
 {
@@ -26,17 +26,14 @@ public class ControladorMusica : MonoBehaviour
 
     void OnEnable()
     {
-        // Inscreve a função no sistema de eventos do SceneManager
         SceneManager.sceneLoaded += AoCarregarCena;
     }
 
     void OnDisable()
     {
-        // Limpa a inscrição para evitar erros de memória
         SceneManager.sceneLoaded -= AoCarregarCena;
     }
 
-    // Esta é a forma moderna que substitui o OnLevelWasLoaded
     void AoCarregarCena(Scene cena, LoadSceneMode modo)
     {
         ConfigurarCenaAtual();
@@ -47,6 +44,7 @@ public class ControladorMusica : MonoBehaviour
         ConfigurarCenaAtual();
     }
 
+    // A função aqui dentro da classe está correta como private
     private void ConfigurarCenaAtual()
     {
         if (fonteMusica == null)
@@ -59,9 +57,7 @@ public class ControladorMusica : MonoBehaviour
         {
             botaomute = encontrarBotao.GetComponent<Button>();
 
-            botaomute.onClick.RemoveAllListeners();
-            botaomute.onClick.AddListener(AlternarMute);
-
+            // Atualiza o sprite inicial baseado no estado real da música
             botaomute.image.sprite = fonteMusica.mute ? iconeSomMutado : iconeSomLigado;
         }
 

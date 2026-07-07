@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/MapaIlha.unity
     guid: 70ba5dcca05026b4ba0facfb5ed9d66f
   - enabled: 1
-    path: Assets/Scenes/Nivel1_Roda.unity
-    guid: 724dd22196053c043aca69b802a9b2d4
-  - enabled: 1
     path: Assets/Scenes/MenuDificuldade.unity
     guid: b10958f40e35cab448d6d7290a652f03
+  - enabled: 1
+    path: Assets/Scenes/Nivel1_Roda.unity
+    guid: 724dd22196053c043aca69b802a9b2d4
   - enabled: 1
     path: Assets/Scenes/Nivel1_Roda_Medio.unity
     guid: 866e0758d3ee95b49b9d0bcf45995c10
@@ -29,6 +29,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Nivel3.unity
     guid: e6600894ccc60a140aaac91ecb70350b
+  - enabled: 1
+    path: Assets/Scenes/Nivel3_Medio.unity
+    guid: e0f12917d9513fe49accd8282dbc058e
+  - enabled: 1
+    path: Assets/Scenes/Nivel3_Dificil.unity
+    guid: e92dc2671ab905444a90793989c6bae0
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
