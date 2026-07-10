@@ -44,7 +44,6 @@ public class ControladorMusica : MonoBehaviour
         ConfigurarCenaAtual();
     }
 
-    // A função aqui dentro da classe está correta como private
     private void ConfigurarCenaAtual()
     {
         if (fonteMusica == null)
@@ -52,27 +51,47 @@ public class ControladorMusica : MonoBehaviour
             fonteMusica = GetComponentInChildren<AudioSource>();
         }
 
+        // Procura pelo botão na nova cena
         GameObject encontrarBotao = GameObject.Find("Botao_Mute");
         if (encontrarBotao != null)
         {
             botaomute = encontrarBotao.GetComponent<Button>();
 
-            // Atualiza o sprite inicial baseado no estado real da música
-            botaomute.image.sprite = fonteMusica.mute ? iconeSomMutado : iconeSomLigado;
+            // --- AQUI ESTÁ A CORREÇÃO DO BUG ---
+            // Remove ouvintes antigos para não acumular e adiciona a função via código!
+            botaomute.onClick.RemoveAllListeners();
+            botaomute.onClick.AddListener(AlternarMuteGeral);
+
+            // Atualiza o sprite inicial baseado no estado real do som global
+            botaomute.image.sprite = (AudioListener.volume == 0f) ? iconeSomMutado : iconeSomLigado;
         }
 
         if (fonteMusica != null && !fonteMusica.isPlaying)
         {
-            fonteMusica.mute = false;
             fonteMusica.Play();
         }
     }
 
-    public void AlternarMute()
+    // Mudámos para silenciar o JOGO INTEIRO (música + efeitos do quiz)
+    public void AlternarMuteGeral()
     {
-        if (fonteMusica == null || botaomute == null) return;
+        // Se encontrar o botão novamente só por segurança
+        if (botaomute == null)
+        {
+            GameObject encontrarBotao = GameObject.Find("Botao_Mute");
+            if (encontrarBotao != null) botaomute = encontrarBotao.GetComponent<Button>();
+        }
 
-        fonteMusica.mute = !fonteMusica.mute;
-        botaomute.image.sprite = fonteMusica.mute ? iconeSomMutado : iconeSomLigado;
+        // Alterna o volume global do Unity (AudioListener)
+        if (AudioListener.volume > 0f)
+        {
+            AudioListener.volume = 0f; // Mute geral
+            if (botaomute != null) botaomute.image.sprite = iconeSomMutado;
+        }
+        else
+        {
+            AudioListener.volume = 1f; // Som ativo
+            if (botaomute != null) botaomute.image.sprite = iconeSomLigado;
+        }
     }
 }
